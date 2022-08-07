@@ -1,6 +1,6 @@
 from pytube import YouTube
 
-storage = r'C:\Users\glazo\Desktop\YouTube'
+storage = r'your folder path'
 url = input('Enter video URL: ')
 yt = YouTube(url)
 
